@@ -1,1 +1,2 @@
-master: new1
+master: new2
+dev1: new1
